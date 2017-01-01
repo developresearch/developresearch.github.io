@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Develop Research"
 title_separator          : "-"
 name                     : "Hector S"
-description              : "An amazing website."
+description              : "A website about research development and technology."
 url                      : "http://www.developresearch.net"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hector S"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Research development and grant proposal specialist. My responsibilities also include technology implementation and research administration process improvement."
+  location         : 
+  email            : "hector@developresearch.net"
   uri              :
   bitbucket        :
   codepen          :
