@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Organizational Culture
 permalink: /organizationalculture/
 --- 
