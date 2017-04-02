@@ -3,7 +3,7 @@ layout: single
 title: Institutional Assessment
 permalink: /assessment/
 header:
-  image: /assets/images/writing_header.jpg
+  overlay_image: /assets/images/writing_header.jpg
 author_bio: false
 --- 
 
