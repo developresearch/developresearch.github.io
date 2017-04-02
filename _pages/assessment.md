@@ -6,7 +6,7 @@ author_bio: false
 image: /assets/images/writing_header.jpg
 --- 
 
-Holistically assessing an Office of Sponsored Programs presents a complex problem that requires the consideration of multiple performance indicators. Among these are:
+Holistical assessment of the performance level at an Office of Sponsored Programs presents a complex challenge that requires the consideration of multiple performance indicators. Among these are:
 - Research activity
 - Service quality
 - Organizational culture
