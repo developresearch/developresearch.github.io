@@ -12,10 +12,9 @@ Holistic assessment of the performance level at an Office of Sponsored Programs 
 - Service quality
 - Organizational culture
 - Process metrics
+Acquiring data about each of these factors requires the use of multiple sources of information. We can draw from institutional electronic research administration systems (eRA), service quality and culture questionnaires, and electronic request tracking systems.
 
 ## Instruments
-
-Acquiring data about each of these factors requires the use of multiple sources of information.
 
 ### ServQual
 
