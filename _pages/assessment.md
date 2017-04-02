@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: Institutional Assessment
 permalink: /assessment/
 author_bio: false
