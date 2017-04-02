@@ -12,12 +12,12 @@ Holistically assessing an Office of Sponsored Programs presents a complex proble
 - Organizational culture
 - Process metrics
 
-##Instruments
+## Instruments
 
 Acquiring data about each of these factors requires the use of multiple sources of information.
 
-###ServQual
+### ServQual
 
-###Forsgren's Culture Assessment Instrument
+### Forsgren's Culture Assessment Instrument
 
 [Click here to view an example questionnaire in Google Forms](www.developresearch.net/culture/)
