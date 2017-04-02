@@ -4,7 +4,7 @@ title: Institutional Assessment
 permalink: /assessment/
 header:
   overlay_image: /assets/images/writing_header.jpg
-author_profile: false
+author_profile: true
 --- 
 
 Holistic assessment of the performance level at an Office of Sponsored Programs presents a complex challenge that requires the consideration of multiple performance indicators. Among these are:
