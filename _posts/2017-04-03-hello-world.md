@@ -7,4 +7,4 @@ tags:
   - Posts
 ---
 
-Greetings! This blog will focus on the intersection of research development and technology.
+Greetings! This website will focus on the intersection of research development and technology.
