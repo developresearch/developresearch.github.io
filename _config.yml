@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Develop Research"
 title_separator          : "-"
-name                     : "Hector S"
+name                     : "Hector Segarra"
 description              : "A website about research development and technology."
 url                      : "http://www.developresearch.net"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -81,8 +81,8 @@ author:
   avatar           : "/assets/images/bio-pic-sm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research development specialist. Proposal editor. Lawyer. Passionate about technology implementation and research administration process improvement."
   location         : 
-  email            : "hector.segarra@developresearch.net"
-  uri              : "http://www.developresearch.net"
+email            : "hector.segarra@developresearch.net"
+uri              : "http://www.developresearch.net"
   bitbucket        :
   codepen          :
   dribbble         :
