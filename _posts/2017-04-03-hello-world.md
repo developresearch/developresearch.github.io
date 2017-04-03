@@ -1,5 +1,5 @@
 ---
-title: "Hello world"
+title: "Hello World!"
 excerpt_separator: "<!--more-->"
 categories:
   - Posts
