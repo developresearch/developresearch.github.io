@@ -4,6 +4,8 @@ main:
     url: https://developresearch.atlassian.net/wiki/display/KB/
   - title: "Institutional Assessment"
     url: http://www.developresearch.net/assessment/
+  - title: "Contact"
+    url: http://www.developresearch.net/contact/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
