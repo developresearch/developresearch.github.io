@@ -2,8 +2,12 @@
 main:
   - title: "Knowledge Base"
     url: https://developresearch.atlassian.net/wiki/display/KB/
+  - title: "Tools"
+    url: http://www.developresearch.net/tools/
   - title: "Institutional Assessment"
     url: http://www.developresearch.net/assessment/
+  - title: "Archive"
+    url: http://www.developresearch.net/year-archive/
   - title: "Contact"
     url: http://www.developresearch.net/contact/
   # - title: "About"
