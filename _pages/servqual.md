@@ -5,4 +5,4 @@ permalink: /servqual/
 author_bio: false
 --- 
 
-<center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_LKkT-v8f0HmnA2MXd80YWzhAjceOtYiF73bjVVgwj7J73Q/viewform?embedded=true" width="760" height="3600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></center>
+<center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_LKkT-v8f0HmnA2MXd80YWzhAjceOtYiF73bjVVgwj7J73Q/viewform?embedded=true" width="760" height="6000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></center>
