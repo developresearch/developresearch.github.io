@@ -239,11 +239,13 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+      header:
+        image: /assets/images/writing_header.jpg
 defaults:
   # _pages
   - scope:
