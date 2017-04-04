@@ -244,8 +244,6 @@ defaults:
       comments: # true
       share: true
       related: true
-      header:
-        image: /assets/images/writing_header.jpg
 defaults:
   # _pages
   - scope:
