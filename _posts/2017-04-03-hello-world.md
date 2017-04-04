@@ -1,7 +1,7 @@
 ---
 title: "Hello World!"
 header:
-  overlay_image: /assets/images/writing_header.jpg
+  image: /assets/images/writing_header.jpg
 layout: single
 author_profile: true
 read_time: true
