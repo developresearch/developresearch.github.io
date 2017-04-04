@@ -1,0 +1,9 @@
+# /_data/authors.yml
+
+Hector Segarra:
+  name: "Hector Segarra"
+#  uri: "http://thewhip.com"
+  email: "hector.segarra@developresearch.net"
+#  bio: " "
+  avatar: "/assets/images/bio-pic-sm.jpg"
+#  twitter: "extravagantman"
