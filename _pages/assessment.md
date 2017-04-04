@@ -19,6 +19,8 @@ Acquiring data about each of these factors requires the use of multiple sources 
 
 ### ServQual
 
+[Click here to view an example questionnaire in Google Forms](/servqual/)
+
 ### Forsgren's Culture Assessment Instrument
 
 [Click here to view an example questionnaire in Google Forms](/culture/)
