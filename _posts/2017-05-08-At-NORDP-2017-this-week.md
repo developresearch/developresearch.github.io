@@ -11,6 +11,6 @@ related: true
 published: true
 ---
 
-This week I will be attending the National Organization of Research Development Professionals (NORDP) 2017 conference in Broomfield, CO. On Tuesday, I will be presenting a poster on assessing the three pillars that support research development & administration success.
+This week I will be attending the National Organization of Research Development Professionals (NORDP) 2017 conference in Broomfield, CO. On Tuesday, I will present a poster on assessment of the three pillars that support research development & administration success: service quality, organizational culture, and process efficiency.
 
-Looking forward to meeting other research development professionals and receiving their input!
+I'm looking forward to meeting other research development professionals and receiving their input!
