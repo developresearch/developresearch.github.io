@@ -1,7 +1,6 @@
 ---
-label: Blog post
+label: Blog post1
 hide_body: false
-display_field: title
 fields:
 - type: text
   name: title
