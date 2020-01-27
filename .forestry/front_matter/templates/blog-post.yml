@@ -31,3 +31,5 @@ fields:
 - type: boolean
   name: related
   label: related
+pages:
+- _posts/using-the-nsf-awards-api.md
