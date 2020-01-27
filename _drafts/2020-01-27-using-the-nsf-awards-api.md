@@ -10,6 +10,6 @@ share: true
 related: true
 
 ---
-The [NSF Awards API](https://www.research.gov/common/webapi/awardapisearch-v1.htm) provides easy programmatic access to the agency's public grant records, which can be helpful in various scenarios.
+The [NSF Awards API](https://www.research.gov/common/webapi/awardapisearch-v1.htm) provides easy programmatic access to the agency's public grant records, which can be helpful in various scenarios. For instance: RCR Requirement Notifications, the NSF Harassment Term & Condition Monitoring, and Internal Notifications based on the award end date.
 
-For instance,
+Additionally, you can quickly produce a list of active awards with PIs and Co-PIs.
