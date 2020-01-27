@@ -3,10 +3,10 @@ title: Using the NSF Awards API
 header:
   image: ''
 layout: single
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 
 ---
