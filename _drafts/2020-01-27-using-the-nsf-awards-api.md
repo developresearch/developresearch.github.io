@@ -10,4 +10,4 @@ share: true
 related: true
 
 ---
-The NSF Awards API
+The [NSF Awards API](https://www.research.gov/common/webapi/awardapisearch-v1.htm) provides easy programmatic access to public grant records, which can be helpful in various scenarios.
